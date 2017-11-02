@@ -61,6 +61,13 @@
         android:padding="16dp"
         android:text="@string/error_message"
         android:visibility="invisible"/>
+    <ProgressBar
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        android:id="@+id/pb_loading_indicator"
+        android:layout_gravity="center"
+        android:visibility="invisible"
+        />
 </FrameLayout>
 
 
@@ -81,4 +88,5 @@
     <!--TODO (21) Set the layout_gravity to center-->
     <!--TODO (22) Set the visibility of the ProgressBar to invisible-->
     <!--TODO (23) Make this ProgressBar a child of the FrameLayout the you added above-->
+
 </LinearLayout>
