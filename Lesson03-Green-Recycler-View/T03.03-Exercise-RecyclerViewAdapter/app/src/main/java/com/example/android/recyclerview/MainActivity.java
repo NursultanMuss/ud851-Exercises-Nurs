@@ -20,6 +20,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
+
 public class MainActivity extends AppCompatActivity {
 
     private static final int NUM_LIST_ITEMS = 100;
