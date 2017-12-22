@@ -78,7 +78,7 @@ public class GreenAdapter extends RecyclerView.Adapter<GreenAdapter.NumberViewHo
      *    Extra ViewHolders (off screen)
      *
      *        *-----------------------------*
-     *        |         ViewHolder index: 8 |
+     *        |         ViewHolder index: 8 |`
      *        *-----------------------------*
      *        |         ViewHolder index: 9 |
      *        *-----------------------------*
